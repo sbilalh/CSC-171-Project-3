@@ -1,1 +1,1 @@
-# CSC-171-Project-3
+# Interactive game built using Java and Java Swing Graphics
